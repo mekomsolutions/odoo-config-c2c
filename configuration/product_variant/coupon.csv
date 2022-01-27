@@ -1,0 +1,2 @@
+id,lst_price,name,categ_id/id,type,purchase_ok,invoice_policy
+init.22134922-63af-4790-937a-bb191d399792,-50,Coupon,product.categ_services_others_orders,service,FALSE,Ordered quantities
