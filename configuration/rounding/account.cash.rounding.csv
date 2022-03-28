@@ -1,0 +1,2 @@
+"id","name","rounding","rounding_method","profit_account_id/id","strategy"
+"init.account_cash_rounding_1","Rounding 5.0","5.0","UP","l10n_generic_coa.1_cash_diff_income","Add a rounding line"
