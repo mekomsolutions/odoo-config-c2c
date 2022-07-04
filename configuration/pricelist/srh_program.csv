@@ -1,18 +1,2 @@
-id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/percent_price,item_ids/product_id/id
-init.product_pricelist_srh_program,SRH Program,Discount included in the price,80,base.HTG,Product Variant,Sales Price,Percentage (discount),1,100,init.e1a77dc7-c7d6-41d2-9c4e-93acc1093bcf
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.c108ee98-5abc-43f3-9653-fc920d79e133
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.784a3266-485d-49a3-851f-44hy93df4edb
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.784a3266-485d-49a3-851f-2a2c93df4edb
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.571e8f4f-4d98-40eb-bd55-c88b8a8ab76d
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.d879219a-a74d-4a4a-a893-ebeb5594c629
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.5690d13c-595b-4e29-bc7f-711afc8e7a16
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.bebc4d5f-df7b-485a-9b3b-3420f536cb6f
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.cbbc7d55-db59-4ea3-9f3b-d3709b1bb82d
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.114d5a9f-f369-4976-9eb7-1f78050c6a9b
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.c5e1437f-e7d9-4016-8ceb-ce70056b6c8e
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.2b6dca2c-1499-4724-8648-42d996a57c6d
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.8e89914e-560b-4ac1-851c-ffeb54cb677f
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.b89f03d9-a61b-4d4e-9636-5b28fdef4525
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.2f76266a-a841-4147-9401-c6b8409b8ccc
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.e5574e71-17ea-434f-8649-eba766be4087
-,,,,,Product Variant,Sales Price,Percentage (discount),1,100,init.c933dc30-36f6-471f-bca6-53d8a682dce1
+id,name,discount_policy,sequence,currency_id/id
+init.product_pricelist_srh_program,SRH Program,Discount included in the price,80,base.HTG
