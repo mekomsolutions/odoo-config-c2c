@@ -18,3 +18,4 @@ product.categ_services_wounds_orders,Wounds,,Manual,Standard Price,init.1_conf_a
 product.categ_services_others_orders,Others,,Manual,Standard Price,init.1_conf_a_sale,init.1_conf_cog
 product.categ_services_exoneration_orders,Exoneration,,Manual,Standard Price,init.1_conf_a_sale,init.1_conf_cog
 product.categ_services_insurance_orders,Insurance,,Manual,Standard Price,init.1_conf_a_sale,init.1_conf_cog
+product.categ_services_service_orders,Services,,Manual,Standard Price,init.1_conf_a_sale,init.1_conf_cog
