@@ -156,3 +156,11 @@ init.481e357d-6c45-4c8a-beec-6d8f858f2552,Vitamine B-Complex Co,product.categ_pr
 init.af3fce1f-dcb1-4f76-ad4c-b8ebda43070c,Vitamine B-Complex Injection,product.categ_products_drug_orders,product,init.6705f17a-242e-44dc-87fa-ed6a15f2a1cb,init.6705f17a-242e-44dc-87fa-ed6a15f2a1cb,Ordered quantities
 init.1ba37121-2bbb-4081-a6dd-02f63ce8c41d,Vitamine prenatal,product.categ_products_drug_orders,product,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,Ordered quantities
 init.2fc67e7e-791b-4eb2-9609-f24e0c852681,Zinc,product.categ_products_drug_orders,product,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,Ordered quantities
+init.4aeb7cad-c7c3-494d-aa31-6036bdd11488,Flexigel pommade,product.categ_products_drug_orders,product,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,Ordered quantities
+init.193ae3be-2ca6-4751-815b-cdea1cd0f4bd,Aquatabs 33mg Comprime,product.categ_products_drug_orders,product,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,init.6fbbb779-94ca-4d83-8e02-8a559627b9fb,Ordered quantities
+init.64494b99-8c9e-4e1d-8883-f2e97dc8d6a4,Litacid Sirop,product.categ_products_drug_orders,product,init.e0f3730a-8fdb-436f-9ed7-1a724801ecc5,init.e0f3730a-8fdb-436f-9ed7-1a724801ecc5,Ordered quantities
+init.9ea8d501-3ed3-4f81-ae26-355b83cf5f00,Bebe vanyan 1g poudre,product.categ_products_drug_orders,product,init.d34c85d0-f1c5-44d1-bfe3-d19d5ec875b1,init.d34c85d0-f1c5-44d1-bfe3-d19d5ec875b1,Ordered quantities
+init.2c80fac4-1350-4378-8552-a825543cbd0b,Dolex GM 100g Pommade,product.categ_products_drug_orders,product,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,Ordered quantities
+init.d21073a7-4767-4b20-a7e3-d32958b68a42,Dolex PM 50g Pommade,product.categ_products_drug_orders,product,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,init.de57d5f9-4eba-4a92-9b6f-f8edff118ad1,Ordered quantities
+init.5431478a-7442-4959-9577-0af2e71de75b,Aciril Sirop,product.categ_products_drug_orders,product,init.e0f3730a-8fdb-436f-9ed7-1a724801ecc5,init.e0f3730a-8fdb-436f-9ed7-1a724801ecc5,Ordered quantities
+init.ec3f33db-7253-4212-ad09-1453372239f4,Metronidazole 500mg injectable,product.categ_products_drug_orders,product,init.5de903e6-2a66-4253-891d-86558e1282d2,init.5de903e6-2a66-4253-891d-86558e1282d2,Ordered quantities
